@@ -1,0 +1,15 @@
+{
+  "name": "hogwarts-quiz",
+  "version": "1.0.0",
+  "description": "projektarbeit kaya etterlin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kaya Etterlin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
